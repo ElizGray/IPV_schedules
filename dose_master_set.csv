@@ -1,0 +1,138 @@
+"","COUNTRYNAME","n","IPV2_introduction","IPV1_introduction","d1age","d2age","fractional","Notes"
+"1","Afghanistan",2,"01/01/2020","01/09/2015",14,39,FALSE,NA
+"2","Albania",2,"01/01/2014","01/05/2014",9,17,FALSE,NA
+"3","Algeria",4,"01/01/2023","01/12/2015",9,52,FALSE,NA
+"4","Angola",2,"01/03/2022","01/12/2017",17,39,FALSE,NA
+"5","Anguilla",2,"01/01/2019","01/01/2019",9,17,FALSE,NA
+"6","Antigua and Barbuda",2,"01/01/2015","01/11/2015",9,17,FALSE,NA
+"7","Azerbaijan",2,"01/06/2022","01/02/2016",13,26,FALSE,"Azerbaijan with introduction of second dose in 2022 went from M6 to M3 M6"
+"8","Bahamas",2,"01/01/2016","01/10/2015",9,17,FALSE,NA
+"9","Bahrain",3,"01/01/2015","01/01/2008",9,17,FALSE,NA
+"10","Bangladesh",2,"01/01/2017","01/03/2015",6,14,TRUE,NA
+"11","Barbados",2,"01/01/2019","01/10/2015",9,17,FALSE,NA
+"12","Belize",2,"01/01/2020","01/12/2015",9,17,FALSE,NA
+"13","Benin",1,NA,"01/08/2015",14,NA,FALSE,NA
+"14","Bhutan",2,"01/07/2021","01/07/2015",14,32,FALSE,NA
+"15","Bolivia (Plurinational State of)",2,"01/01/2021","01/02/2016",9,26,FALSE," Bolivia went from 9,17 weeks to 9,26 weeks in 2023"
+"16","Botswana",2,"01/01/2024","01/11/2015",17,39,FALSE,NA
+"17","Brazil",3,"01/01/2012","01/01/2012",9,26,FALSE,NA
+"18","British Virgin Islands",2,"01/01/2019","01/01/2018",9,26,FALSE,"In 2020, switched from a M2 M4 schedule, to a M2 M6 schedule"
+"19","Burkina Faso",2,"01/11/2021","01/07/2018",16,39,FALSE,NA
+"20","Burundi",1,NA,"01/11/2015",14,NA,FALSE,NA
+"21","Cabo Verde",2,"10/03/2023","01/04/2017",17,39,FALSE,NA
+"22","Cambodia",1,NA,"01/12/2015",14,NA,FALSE,NA
+"23","Cameroon",2,"01/01/2023","01/07/2015",14,39,FALSE,NA
+"24","Central African Republic",1,NA,"01/09/2015",14,NA,FALSE,NA
+"25","Chad",2,"01/01/2021","01/08/2015",14,39,FALSE,NA
+"26","China",2,"01/01/2019","01/12/2014",9,13,FALSE,NA
+"27","Comoros",1,NA,"01/01/2015",14,NA,FALSE,NA
+"28","Congo",1,NA,"01/04/2016",16,NA,FALSE,NA
+"29","Cook Islands",1,NA,"01/11/2015",22,NA,FALSE,NA
+"30","Cote d'Ivoire",2,"24/04/2023","01/06/2015",6,14,FALSE,"Cote d'Ivoire went from a single dose at 14 weeks to a 6, 14 week schedule in 2023"
+"31","Cuba",2,"01/05/2018","01/01/2016",17,34,TRUE,NA
+"32","Curacao",1,NA,"01/01/2018",9,NA,FALSE,NA
+"33","Democratic People's Republic of Korea",1,NA,"01/04/2015",14,NA,FALSE,NA
+"34","Democratic Republic of the Congo",2,"01/01/2023","01/04/2015",14,39,FALSE,NA
+"35","Djibouti",2,"01/07/2024","01/04/2016",6,14,FALSE,"Introduced early 6 week second dose in 2024"
+"36","Dominica",2,"01/01/2021","01/09/2015",9,17,FALSE,NA
+"37","Dominican Republic",3,"01/09/2022","01/12/2015",9,26,FALSE,NA
+"38","Ecuador",2,"01/01/2018","01/12/2015",9,17,TRUE,NA
+"39","Egypt",3,"01/01/2021","01/07/2018",9,26,FALSE,NA
+"40","El Salvador",4,"01/01/2019","01/01/2016",9,77,FALSE,NA
+"41","Equatorial Guinea",1,NA,"01/08/2016",14,NA,FALSE,NA
+"42","Eritrea",2,"01/07/2021","01/08/2018",14,39,FALSE,NA
+"43","Eswatini",1,NA,"01/07/2016",14,NA,FALSE,NA
+"44","Ethiopia",2,"01/01/2023","01/12/2015",14,39,FALSE,NA
+"45","Fiji",1,NA,"01/12/2015",14,NA,FALSE,NA
+"46","Gabon",1,NA,"01/12/2015",14,NA,FALSE,NA
+"47","Gambia",2,"01/01/2022","01/01/2015",17,39,FALSE,NA
+"48","Ghana",1,NA,"01/06/2018",14,NA,FALSE,NA
+"49","Grenada",2,"01/01/2021","01/06/2015",6,26,FALSE,"grenada in 2021 went from one dose at week 7 in 2020, to W7 M4 in 2021, to W6 M6 in 2022"
+"50","Guatemala",2,"01/01/2020","01/01/2016",9,17,FALSE,NA
+"51","Guinea",1,NA,"01/11/2015",14,NA,FALSE,NA
+"52","Guinea-Bissau",1,NA,"01/07/2016",14,NA,FALSE,NA
+"53","Guyana",2,"01/01/2020","01/09/2015",9,17,FALSE,NA
+"54","Haiti",1,NA,"01/01/2016",6,NA,FALSE,NA
+"55","Honduras",2,"01/01/2018","01/12/2015",9,17,FALSE,NA
+"56","India",3,"01/01/2016","01/11/2015",6,14,TRUE,"In Jan 2023, switched from a 6,14 schedule, to a 6,14,39 schedule"
+"57","Indonesia",2,"01/12/2022","01/07/2016",17,39,FALSE,NA
+"58","Iran (Islamic Republic of)",2,"01/01/2021","01/09/2015",17,26,FALSE,NA
+"59","Iraq",2,"01/01/2016","01/01/2016",17,26,FALSE,NA
+"60","Israel",5,"01/01/2002","01/01/1998",9,17,FALSE,NA
+"61","Jamaica",2,"01/01/2021","01/09/2015",6,26,FALSE,NA
+"62","Jordan",3,"01/01/2006","01/01/2005",13,22,FALSE,NA
+"63","Kazakhstan",4,"01/01/2013","01/07/2013",9,13,FALSE,NA
+"64","Kenya",1,NA,"01/12/2015",14,NA,FALSE,NA
+"65","Kiribati",1,NA,"01/06/2015",14,NA,FALSE,NA
+"66","Kosovo (in accordance with UN Security Council resolution 1244 (1999))",3,NA,NA,9,13,FALSE,NA
+"67","Kuwait",3,"01/01/2019","01/01/2010",9,26,FALSE,NA
+"68","Kyrgyzstan",2,"01/04/2022","01/05/2018",15,39,FALSE,NA
+"69","Lao People's Democratic Republic",2,"01/07/2024","01/10/2015",14,52,FALSE,NA
+"70","Lebanon",2,"01/01/2023","01/01/2011",9,17,FALSE,NA
+"71","Lesotho",1,NA,"01/04/2016",14,NA,FALSE,NA
+"72","Liberia",1,NA,"01/07/2017",14,NA,FALSE,NA
+"73","Libya",5,"01/01/2014","01/04/2014",9,17,FALSE,NA
+"74","Madagascar",2,"01/01/2021","01/05/2015",14,39,FALSE,NA
+"75","Malawi",1,NA,"01/12/2018",14,NA,FALSE,NA
+"76","Maldives",1,NA,"01/03/2015",26,NA,FALSE,NA
+"77","Mali",2,"01/01/2021","01/03/2016",14,39,FALSE,NA
+"78","Mauritania",1,NA,"01/11/2015",14,NA,FALSE,NA
+"79","Mongolia",1,NA,"01/04/2019",22,NA,FALSE,NA
+"80","Montserrat",2,"01/01/2018","01/01/2018",9,17,FALSE,NA
+"81","Morocco",1,NA,"01/06/2015",17,NA,FALSE,NA
+"82","Mozambique",2,"13/09/2023","01/11/2015",17,39,FALSE,NA
+"83","Myanmar",1,NA,"01/12/2015",17,NA,FALSE,NA
+"84","Namibia",2,"01/01/2023","01/11/2015",14,39,FALSE,NA
+"85","Nauru",1,NA,"01/10/2015",14,NA,FALSE,NA
+"86","Nepal",2,"01/01/2017","01/09/2014",14,39,TRUE,"In Jan 2023, switched from a 6,14 schedule, to a 14,39 schedule"
+"87","Nicaragua",2,"01/01/2022","01/11/2015",9,17,FALSE,NA
+"88","Niger",2,"01/12/2022","01/07/2015",14,39,FALSE,NA
+"89","Nigeria",2,"01/07/2021","01/02/2015",6,14,FALSE," Nigeria went from a single dose at 14 weeks to a 6, 14 week schedule in 2021"
+"90","Oman",2,"01/01/2016","01/01/2010",9,17,FALSE,NA
+"91","Pakistan",2,"15/04/2021","01/07/2015",14,39,FALSE,NA
+"92","Palestine, N.A. (West Bank and Gaza)",2,"01/01/2018","01/01/2018",4,9,FALSE,NA
+"93","Papua New Guinea",2,"01/07/2021","01/08/2015",13,39,FALSE,NA
+"94","Peru",3,"01/01/2013","01/07/2013",9,26,FALSE,NA
+"95","Philippines",2,"01/04/2021","01/07/2015",14,39,FALSE,NA
+"96","Qatar",2,"01/01/2016","01/01/2010",9,17,FALSE,NA
+"97","Republic of Moldova",2,"01/01/2022","01/04/2018",26,104,FALSE,NA
+"98","Russian Federation",8,"01/01/2008","01/01/2008",13,77,FALSE,NA
+"99","Rwanda",2,"01/04/2022","01/03/2018",14,39,FALSE,NA
+"100","Saint Kitts and Nevis",2,"01/01/2023","01/12/2015",9,26,FALSE,NA
+"101","Saint Lucia",2,"01/01/2023","01/11/2015",9,26,FALSE,NA
+"102","Saint Vincent and The Grenadines",2,"01/01/2018","01/06/2015",9,17,FALSE,NA
+"103","Samoa",1,NA,"01/10/2015",14,NA,FALSE,NA
+"104","Sao Tome and Principe",2,"01/07/2024","01/11/2017",14,39,FALSE,NA
+"105","Saudi Arabia",3,"01/01/2013","01/01/2008",9,17,FALSE,NA
+"106","Senegal",2,"01/12/2022","01/01/2015",6,14,FALSE,"Senegal went from a single dose at 14 weeks to a 6, 14 week schedule in 2023"
+"107","Seychelles",3,"01/07/2024","01/09/2015",9,13,FALSE,NA
+"108","Sierra Leone",2,"01/06/2021","01/02/2018",14,39,FALSE,NA
+"109","Solomon Islands",1,NA,"01/09/2015",14,NA,FALSE,NA
+"110","Somalia",2,"01/01/2022","01/11/2015",14,39,FALSE,NA
+"111","South Africa",4,"01/01/2009","01/01/2009",6,10,FALSE,NA
+"112","South Sudan",2,"01/07/2021","01/12/2015",14,39,FALSE,NA
+"113","Sri Lanka",2,"01/07/2016","01/07/2015",9,17,TRUE,NA
+"114","Sudan",2,"01/01/2023","01/06/2015",6,14,FALSE,"Sudan went from a single dose at 14 weeks to a 6, 14 week schedule in 2023"
+"115","Suriname",2,"01/01/2023","01/10/2015",9,17,FALSE,NA
+"116","Syrian Arab Republic",2,"01/01/2008","01/01/2008",8,16,FALSE,NA
+"117","Tajikistan",2,"01/07/2022","01/06/2018",13,39,FALSE,"Tajikistan in 2022 went from one dose at m4 to two doses m3 m9. "
+"118","Thailand",2,"01/05/2023","01/12/2015",9,17,FALSE,"Thailand went from a single dose at 17 weeks to a 9, 17 week schedule in 2023"
+"119","Timor-Leste",1,NA,"01/02/2016",14,NA,FALSE,NA
+"120","Togo",2,"01/09/2022","01/10/2018",14,39,FALSE,NA
+"121","Tonga",1,NA,"01/12/2015",14,NA,FALSE,NA
+"122","Trinidad and Tobago",2,"01/01/2020","01/12/2015",9,17,FALSE,NA
+"123","Tunisia",3,"01/01/2017","01/09/2014",9,26,FALSE,NA
+"124","Turkey",5,"01/01/2008","01/01/2008",9,17,FALSE,NA
+"125","Turkmenistan",1,NA,"01/01/2018",13,NA,FALSE,"Turkmenistan changed from giving a dose at 4 months to 3 months in 2019"
+"126","Turks and Caicos",2,"01/01/2019","01/01/2018",9,17,FALSE,NA
+"127","Uganda",2,"01/10/2022","01/04/2016",6,14,FALSE,"Uganda went from a single dose at 14 weeks, to a 6, 14 week schedule in 2022"
+"128","Ukraine",2,"01/01/2004","01/01/2007",9,17,FALSE,NA
+"129","United Arab Emirates",4,"01/01/2015","01/01/2010",9,17,FALSE,NA
+"130","United Republic of Tanzania",1,NA,"01/04/2018",14,NA,FALSE,NA
+"131","Uzbekistan",2,"01/01/2022","01/04/2018",17,39,FALSE,NA
+"132","Vanuatu",1,NA,"01/11/2015",14,NA,FALSE,NA
+"133","Venezuela",2,"01/01/2021","01/01/2016",9,17,FALSE,NA
+"134","Viet Nam",2,"01/10/2022","01/06/2018",22,39,FALSE,NA
+"135","Yemen",2,"01/01/2021","01/11/2015",14,39,FALSE,NA
+"136","Zambia",1,NA,"01/06/2018",14,NA,FALSE,NA
+"137","Zimbabwe",2,"01/08/2021","01/04/2019",14,39,FALSE,NA
